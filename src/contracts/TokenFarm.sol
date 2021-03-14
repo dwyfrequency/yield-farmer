@@ -12,4 +12,9 @@ contract TokenFarm {
         dappToken = _dappToken;
         daiToken = _daiToken;
     }
+
+    // TODO 1:03:34 https://www.youtube.com/watch?v=CgXQC4dbGUE&feature=youtu.be
+    // 1. Stake Tokens
+
+    // 2. Unstake Tokens
 }
